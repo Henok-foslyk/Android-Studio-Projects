@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Shopaholic</string>
+    <string name="welcome">Welcome to Shopaholic!</string>
+    <string name="shoppingList">Shopping List</string>
+    <string name="deleteAll">Delete all</string>
+    <string name="delete">Delete</string>
+    <string name="add">add</string>
+    <string name="summary">"Summary"</string>
+    <string name="emptyList">"Empty List"</string>
+    <string name="priority">"Priority"</string>
+    <string name="edit">Edit</string>
+    <string name="expandOrClose">Expand or Close</string>
+    <string name="newItem">New Item</string>
+    <string name="editItem">Edit Item</string>
+    <string name="itemTitle">Item Title</string>
+    <string name="itemDescription">Item Description</string>
+    <string name="itemPrice">Estimated tem Price</string>
+    <string name="category">Category</string>
+    <string name="errorPrompt">Please enter an integer price</string>
+    <string name="save">Save</string>
+    <string name="dropdown">Dropdown</string>
+    <string name="back">Back</string>
+    <string name="food">Food</string>
+    <string name="electronics">Electronics</string>
+    <string name="book">Books</string>
+    <string name="other">Others</string>
+    <string name="all">All</string>
+    <string name="isBought">isBought</string>
+    <string name="price">Price</string>
+
+
+
+</resources>

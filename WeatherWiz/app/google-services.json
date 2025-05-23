@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750353144477",
+    "project_id": "weatherwiz-12bdf",
+    "storage_bucket": "weatherwiz-12bdf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750353144477:android:f769f34ee4276f8d0d5274",
+        "android_client_info": {
+          "package_name": "com.example.weatherwiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIsSA34ZAJvA3825wOwOfeZGcEBUlO3tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="btn_reset">Reset</string>
+    <string name="title">Henok\'s MineSweeper</string>
+    <string name="wrong_flag">You flagged a safe cell. You lose!</string>
+    <string name="win">You win!</string>
+    <string name="board_size">Board Size</string>
+    <string name="bomb_step">You stepped on a bomb.You lose!</string>,
+    <string name="playing">Make your next move!</string>
+    <string name="flag_mode">Flag Mode</string>
+    <string name="instructions"> - Flag all the bombs to win\n- You lose if you flag a safe cell\n- You lose if you step on a bomb</string>
+</resources>

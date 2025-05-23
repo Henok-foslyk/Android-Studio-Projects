@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760592211768",
+    "project_id": "henoksfirstfirebase",
+    "storage_bucket": "henoksfirstfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760592211768:android:4d8038699618c5d1002bcd",
+        "android_client_info": {
+          "package_name": "com.example.aitforum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaGDT2QlBQQWM3RyTKBo8KXYqmzE2wpUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

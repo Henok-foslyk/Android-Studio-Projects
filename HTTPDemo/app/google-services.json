@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069480932700",
+    "project_id": "httpdemo-ea8cf",
+    "storage_bucket": "httpdemo-ea8cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069480932700:android:ee078b417ac76b0f993d99",
+        "android_client_info": {
+          "package_name": "com.example.httpdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKvyLYwa0jDe3EYUR0war5wtPD3Il21LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
